@@ -8,13 +8,13 @@ android {
         viewBinding = true
     }
 
-    compileSdkVersion 30
+    compileSdkVersion 31
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.kikunote"
+        applicationId "com.Android_NoteAp"
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 31
         versionCode 5
         versionName "2.1"
 

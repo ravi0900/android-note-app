@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "Kikunote"
+rootProject.name = "Android_NoteApp"
