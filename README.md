@@ -4,4 +4,4 @@ Implemented Room database and Neumorphism to Note Apps, built with Android studi
 
 ###Sanpshots
 ![s1](./screenshot/s1.png)
-![s2](./screenshot/s15.png)
+![s2](./screenshot/s5.png)
